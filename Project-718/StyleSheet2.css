@@ -1,0 +1,73 @@
+﻿
+/*body{
+    margin:0;
+    padding:0;
+}
+.outerdiv1
+{
+    display:flex;
+    justify-content:space-evenly;
+}
+i
+.div1,.div2,.div3{
+   display:inline-block;
+   width:200px;
+  
+}
+.div1 {
+    background-image: url(Apple.jpg);
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+*/
+.h1,.h2{
+    text-align:center;
+}
+
+.outerdiv1,.outerdiv2,.outerdiv3{
+    display:flex;
+    justify-content:space-evenly;
+}
+.outerdiv4, .outerdiv5, .outerdiv6 {
+    display: flex;
+    justify-content:space-evenly;
+}
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9{
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+    width:400px;
+    border-style:double;
+    padding:30px;
+    
+}
+.div10, .div11, .div12, .div13, .div14, .div15, .div16, .div17, .div18 {
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+    width: 400px;
+    border-style:double;
+    padding: 30px;
+}
+.app, .or, .gr, .guv, .pom, .plm, .wat, .ban, .str {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+.tom, .oni, .rad, .pot, .bri, .lad, .beans, .capsi, .beet {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+/*.div1 {
+    position: absolute;
+}
+    .div1.btn {
+        position: relative;
+    }
+
+*/

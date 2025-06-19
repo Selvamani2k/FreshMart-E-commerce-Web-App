@@ -1,0 +1,55 @@
+﻿/*.outerdiv1,.outerdiv2,.outerdiv3{
+    display:flex;
+    justify-content:space-evenly;
+}
+.outerdiv4, .outerdiv5, .outerdiv6 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9{
+    display: inline-block;
+    width: 50px;
+    height: 70%;
+    width: 50%;
+    border-color:red;
+}
+.div10, .div11, .div12,.div13, .div14, .div15,.div16,.div17,.div18 {
+    justify-content: space-evenly;
+    display: inline-block;
+    width: 50px;
+    height: 50%;
+    width: 50%;
+    border-color:red;
+}
+.app, .or, .gr, .guv, .pom, .plm, .wat, .ban, .str {
+    width: 100%;
+    height: 243px;
+    background-size: cover;
+}
+.tom, .oni, .rad, .pot, .bri, .lad,.beans,.capsi,.beet {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+}
+.h1 {
+    align-content: center;
+}*/
+body {
+    /*background-image: url('Bg2.jpg');*/
+    background-color:darkcyan;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.outerdiv {
+    /*    background-image: url('Bg4.jpg');
+    
+*//* background-image: url('gif-login.gif');*/
+  
+    width: 70%;
+    height: 90%;
+    display: block;
+    /*margin-left:auto;
+    margin-right:auto;
+    padding-top:40px;*/
+}
+
